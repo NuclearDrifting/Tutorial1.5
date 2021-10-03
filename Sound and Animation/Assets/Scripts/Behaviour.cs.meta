@@ -3,7 +3,11 @@ guid: 03dd671b58dfb0b4298696f8f9d0f8ab
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - musicClipOne: {fileID: 8300000, guid: e6f42ca0c2754f649be21c739fcf0544, type: 3}
+  - musicClipTwo: {fileID: 8300000, guid: 0501af365cc0be049a4af5eeeca3558e, type: 3}
+  - musicClipThree: {instanceID: 0}
+  - musicSource: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
